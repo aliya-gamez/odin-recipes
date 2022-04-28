@@ -1,3 +1,4 @@
-#Odin Project: Recipes
+# Odin Project: Recipes
 
-Current objective is to create a HTML website consisting of recipes.
+**Project Description:**
+Create a HTML website consisting of recipes.
