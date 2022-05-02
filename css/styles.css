@@ -1,7 +1,7 @@
 /* styles.css */
 * {
-    background-color:beige;
-    color:rgb(107, 14, 14);
+    background-color: #f7e0ff;
+    color: #20603c;
     font-family:'Courier New', Courier, monospace;
 
     margin-left: 5px;
@@ -12,8 +12,9 @@ h1 {
 }
 
 img {
-    height: 500px;
+    height: 400px;
     width: auto;
+    border: 3px solid #20603c;
 }
 
 li {
