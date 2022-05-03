@@ -1,14 +1,19 @@
 /* styles.css */
 * {
-    background-color: #f7e0ff;
-    color: #20603c;
+    background-color: #fff2ee;
+    color: #1d781d;
     font-family:'Courier New', Courier, monospace;
 
-    margin-left: 5px;
+    margin-left: 15px;
+    margin-right: 30px;
 }
 
 h1 {
     font-size: 45px;
+}
+
+p {
+    color: black;
 }
 
 img {
@@ -18,5 +23,11 @@ img {
 }
 
 li {
+    color: black;
     margin-bottom: 10px;
 }
+
+li a {
+    color: black;
+}
+
